@@ -1,5 +1,5 @@
 
-print('Welcome to Exam Evaluation Program')
+print('Welcome to Assessments Grading Program')
 assessments_num = int(input("How many assessments do you want to mark?: "))  # store number of assessments
 print('No. of assessments saved:', assessments_num)
 
